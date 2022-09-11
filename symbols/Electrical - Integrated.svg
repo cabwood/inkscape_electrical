@@ -26,8 +26,8 @@
      inkscape:document-units="mm"
      showgrid="true"
      inkscape:zoom="2.0435913"
-     inkscape:cx="216.04124"
-     inkscape:cy="102.76027"
+     inkscape:cx="467.06991"
+     inkscape:cy="65.081506"
      inkscape:window-width="1920"
      inkscape:window-height="1049"
      inkscape:window-x="1920"
@@ -174,42 +174,6 @@
              sodipodi:nodetypes="cc" />
         </g>
       </g>
-    </symbol>
-    <symbol
-       id="g33343">
-      <path
-         style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-         d="m 222.9296,243.75001 c 0,0 0.34507,-1.20773 1.0352,-1.20773 0.69013,0 1.0352,1.20773 1.0352,1.20773 0,0 0.34507,1.20773 1.0352,1.20773 0.69013,0 1.0352,-1.20773 1.0352,-1.20773"
-         id="path33331"
-         sodipodi:nodetypes="czczc" />
-      <g
-         id="g33337"
-         transform="translate(-22.5,243.75001)">
-        <path
-           style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.499999;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-           d="m 256.25,8.5 v 3"
-           id="path33333"
-           sodipodi:nodetypes="cc" />
-        <path
-           style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.499999;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-           d="m 254.75,10 h 3"
-           id="path33335"
-           sodipodi:nodetypes="cc" />
-      </g>
-      <path
-         style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.499999;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-         d="m 213.5,253.75001 h 3"
-         id="path33339"
-         sodipodi:nodetypes="cc" />
-      <path
-         style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-         d="m 222.9296,263.75001 c 0,0 0.34507,-1.20773 1.0352,-1.20773 0.69013,0 1.0352,1.20773 1.0352,1.20773 0,0 0.34507,1.20773 1.0352,1.20773 0.69013,0 1.0352,-1.20773 1.0352,-1.20773"
-         id="path33341"
-         sodipodi:nodetypes="czczc" />
-      <path
-         style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.499999;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-         d="m 225,238.75 -15,15 15,15.00001 15,-15 z"
-         id="path33361" />
     </symbol>
     <symbol
        id="g33377">
@@ -447,6 +411,42 @@
            sodipodi:nodetypes="cc" />
       </g>
     </symbol>
+    <symbol
+       id="use55045">
+      <path
+         style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         d="m 222.9296,243.75001 c 0,0 0.34507,-1.20773 1.0352,-1.20773 0.69013,0 1.0352,1.20773 1.0352,1.20773 0,0 0.34507,1.20773 1.0352,1.20773 0.69013,0 1.0352,-1.20773 1.0352,-1.20773"
+         id="path10610"
+         sodipodi:nodetypes="czczc" />
+      <g
+         id="g10616"
+         transform="translate(-21.25,243.75)">
+        <path
+           style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.499999;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           d="m 256.25,8.5 v 3"
+           id="path10612"
+           sodipodi:nodetypes="cc" />
+        <path
+           style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.499999;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           d="m 254.75,10 h 3"
+           id="path10614"
+           sodipodi:nodetypes="cc" />
+      </g>
+      <path
+         style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.499999;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         d="m 213.5,253.75001 h 3"
+         id="path10618"
+         sodipodi:nodetypes="cc" />
+      <path
+         style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         d="m 222.9296,263.75001 c 0,0 0.34507,-1.20773 1.0352,-1.20773 0.69013,0 1.0352,1.20773 1.0352,1.20773 0,0 0.34507,1.20773 1.0352,1.20773 0.69013,0 1.0352,-1.20773 1.0352,-1.20773"
+         id="path10620"
+         sodipodi:nodetypes="czczc" />
+      <path
+         style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.499999;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         d="m 225,238.75 -15,15 15,15.00001 15,-15 z"
+         id="path10622" />
+    </symbol>
   </defs>
   <g
      inkscape:label="Layer 1"
@@ -455,10 +455,6 @@
     <use
        xlink:href="#g33327"
        id="use54943" />
-    <use
-       xlink:href="#g33343"
-       id="use55045"
-       transform="translate(-80,-226.25)" />
     <use
        xlink:href="#g33377"
        id="use55162"
@@ -475,5 +471,9 @@
        xlink:href="#g2838"
        id="use3383"
        transform="translate(-60,-110)" />
+    <use
+       xlink:href="#use55045"
+       id="use10635"
+       transform="translate(-80,-226.25)" />
   </g>
 </svg>

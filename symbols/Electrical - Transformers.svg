@@ -25,9 +25,9 @@
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="mm"
      showgrid="true"
-     inkscape:zoom="2.0435913"
-     inkscape:cx="169.06512"
-     inkscape:cy="148.2684"
+     inkscape:zoom="2.8900747"
+     inkscape:cx="245.49539"
+     inkscape:cy="184.77031"
      inkscape:window-width="1920"
      inkscape:window-height="1049"
      inkscape:window-x="1920"
@@ -43,65 +43,6 @@
   </sodipodi:namedview>
   <defs
      id="defs1425">
-    <symbol
-       id="g18742">
-      <g
-         id="g18742_transform"
-         transform="matrix(-1,0,0,1,151.25,-107.5)">
-        <g
-           id="g18677"
-           transform="matrix(-1,0,0,1,257.125,67.5)">
-          <path
-             style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-             d="M 125,50 V 69.999999"
-             id="path18673"
-             sodipodi:nodetypes="cc" />
-          <path
-             style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-             d="M 126.75,50 V 69.999999"
-             id="path18675"
-             sodipodi:nodetypes="cc" />
-        </g>
-        <g
-           id="g18697"
-           transform="matrix(-1,0,0,1,263.75,0)">
-          <g
-             id="g18687"
-             transform="translate(46.25,87.5)">
-            <circle
-               style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.499999;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-               id="circle18679"
-               cx="81.875"
-               cy="29.375"
-               r="0.625" />
-            <path
-               style="fill:none;stroke:#000000;stroke-width:0.499999;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-               d="m 78.75,30 c 0,0 3.75,0 3.75,2.5 0,2.5 -3.749999,2.5 -3.749999,2.5 0,0 3.749999,0 3.749999,2.5 0,2.5 -3.749999,2.5 -3.749999,2.5 0,0 3.749999,0 3.749999,2.5 0,2.5 -3.749999,2.5 -3.749999,2.5 0,0 3.749999,0 3.749999,2.5 0,2.5 -3.75,2.5 -3.75,2.5"
-               id="path18681"
-               sodipodi:nodetypes="cscscscsc" />
-          </g>
-        </g>
-        <g
-           id="g45931"
-           transform="translate(-1.25)">
-          <g
-             id="g45929"
-             transform="translate(46.25,87.5)">
-            <circle
-               style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.499999;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-               id="circle45925"
-               cx="81.875"
-               cy="29.375"
-               r="0.625" />
-            <path
-               style="fill:none;stroke:#000000;stroke-width:0.499999;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-               d="m 78.75,30 c 0,0 3.75,0 3.75,2.5 0,2.5 -3.749999,2.5 -3.749999,2.5 0,0 3.749999,0 3.749999,2.5 0,2.5 -3.749999,2.5 -3.749999,2.5 0,0 3.749999,0 3.749999,2.5 0,2.5 -3.749999,2.5 -3.749999,2.5 0,0 3.749999,0 3.749999,2.5 0,2.5 -3.75,2.5 -3.75,2.5"
-               id="path45927"
-               sodipodi:nodetypes="cscscscsc" />
-          </g>
-        </g>
-      </g>
-    </symbol>
     <symbol
        id="g18774">
       <g
@@ -218,6 +159,111 @@
            id="path46006-2" />
       </g>
     </symbol>
+    <symbol
+       id="use46146">
+      <g
+         id="use46146_transform"
+         transform="matrix(-1,0,0,1,151.25,-107.5)">
+        <g
+           id="g2449"
+           transform="matrix(-1,0,0,1,257.125,67.5)">
+          <path
+             style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+             d="M 125,50 V 69.999999"
+             id="path2445"
+             sodipodi:nodetypes="cc" />
+          <path
+             style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+             d="M 126.75,50 V 69.999999"
+             id="path2447"
+             sodipodi:nodetypes="cc" />
+        </g>
+        <g
+           id="g2457"
+           transform="matrix(-1,0,0,1,263.75,0)">
+          <g
+             id="g2455"
+             transform="translate(46.25,87.5)">
+            <circle
+               style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.499999;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+               id="circle2451"
+               cx="81.875"
+               cy="29.375"
+               r="0.625" />
+            <path
+               style="fill:none;stroke:#000000;stroke-width:0.499999;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+               d="m 78.75,30 c 0,0 3.75,0 3.75,2.5 0,2.5 -3.749999,2.5 -3.749999,2.5 0,0 3.749999,0 3.749999,2.5 0,2.5 -3.749999,2.5 -3.749999,2.5 0,0 3.749999,0 3.749999,2.5 0,2.5 -3.749999,2.5 -3.749999,2.5 0,0 3.749999,0 3.749999,2.5 0,2.5 -3.75,2.5 -3.75,2.5"
+               id="path2453"
+               sodipodi:nodetypes="cscscscsc" />
+          </g>
+        </g>
+        <g
+           id="g2465"
+           transform="translate(-1.25)">
+          <g
+             id="g2463"
+             transform="translate(46.25,87.5)">
+            <circle
+               style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.499999;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+               id="circle2459"
+               cx="81.875"
+               cy="29.375"
+               r="0.625" />
+            <path
+               style="fill:none;stroke:#000000;stroke-width:0.499999;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+               d="m 78.75,30 c 0,0 3.75,0 3.75,2.5 0,2.5 -3.749999,2.5 -3.749999,2.5 0,0 3.749999,0 3.749999,2.5 0,2.5 -3.749999,2.5 -3.749999,2.5 0,0 3.749999,0 3.749999,2.5 0,2.5 -3.749999,2.5 -3.749999,2.5 0,0 3.749999,0 3.749999,2.5 0,2.5 -3.75,2.5 -3.75,2.5"
+               id="path2461"
+               sodipodi:nodetypes="cscscscsc" />
+          </g>
+        </g>
+      </g>
+    </symbol>
+    <symbol
+       id="use2650">
+      <g
+         id="use2650_transform"
+         transform="matrix(-1,0,0,1,213.75,-102.5)">
+        <g
+           id="g584"
+           transform="matrix(-1,0,0,1,257.125,67.5)">
+          <path
+             style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+             d="M 125,45 V 69.999999"
+             id="path580"
+             sodipodi:nodetypes="cc" />
+          <path
+             style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+             d="M 126.75,45 V 69.999999"
+             id="path582"
+             sodipodi:nodetypes="cc" />
+        </g>
+        <g
+           id="g590"
+           transform="matrix(-1,0,0,1,263.75,0)">
+          <g
+             id="g588"
+             transform="translate(46.25,87.5)" />
+        </g>
+        <g
+           id="g596"
+           transform="translate(-1.25)">
+          <g
+             id="g594"
+             transform="translate(46.25,87.5)">
+            <path
+               style="fill:none;stroke:#000000;stroke-width:0.499999;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+               d="m 78.75,30 c 0,0 3.75,0 3.75,2.5 0,2.5 -3.749999,2.5 -3.749999,2.5 0,0 3.749999,0 3.749999,2.5 0,2.5 -3.749999,2.5 -3.749999,2.5 0,0 3.749999,0 3.749999,2.5 0,2.5 -3.749999,2.5 -3.749999,2.5"
+               id="path592"
+               sodipodi:nodetypes="cscscsc" />
+          </g>
+        </g>
+        <path
+           style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stroke-linejoin:round"
+           d="m 138.75,112.5 c 0,0 -3.75,0 -3.75,2.5 0,2.5 3.75,2.5 3.75,2.5 0,0 -3.75,0 -3.75,2.5 0,2.5 3.75,2.5 3.75,2.5 0,0 -3.75,0 -3.75,2.5 0,2.5 3.75,2.5 3.75,2.5 0,0 -3.75,0 -3.75,2.5 0,2.5 3.75,2.5 3.75,2.5 0,0 -3.75,0 -3.75,2.5 0,2.5 3.75,2.5 3.75,2.5"
+           id="path2493"
+           sodipodi:nodetypes="cscscscscsc" />
+      </g>
+    </symbol>
   </defs>
   <g
      inkscape:label="Layer 1"
@@ -225,7 +271,7 @@
      id="layer1">
     <g
        id="g11507"
-       transform="translate(78.75,6.25)">
+       transform="translate(-43.75,8.75)">
       <circle
          style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.499999;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
          id="circle11500"
@@ -240,7 +286,7 @@
     </g>
     <g
        id="g6556"
-       transform="translate(66.25,8.75)">
+       transform="translate(-56.25,11.25)">
       <path
          style="fill:none;stroke:#000000;stroke-width:0.499999;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          d="m 83.75,26.25 v 1.25 c 0,0 3.75,0 3.75,2.5 0,2.5 -3.749999,2.5 -3.749999,2.5 0,0 3.749999,0 3.749999,2.5 0,2.5 -3.749999,2.5 -3.749999,2.5 0,0 3.749999,0 3.749999,2.5 0,2.5 -3.749998,2.5 -3.749998,2.5 l -2e-6,1.25"
@@ -249,7 +295,7 @@
     </g>
     <g
        id="g6600"
-       transform="translate(18.750001,6.25)">
+       transform="translate(-103.75,8.75)">
       <path
          style="fill:none;stroke:#000000;stroke-width:0.499999;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          d="m 146.25,30 c 0,0 3.75,0 3.75,2.5 0,2.5 -3.75,2.5 -3.75,2.5 0,0 3.75,0 3.75,2.5 0,2.5 -3.75,2.5 -3.75,2.5"
@@ -258,15 +304,12 @@
     </g>
     <path
        style="fill:none;stroke:#000000;stroke-width:0.499999;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 172.5,36.25 c 0,0 3.75,0 3.75,2.5 0,2.5 -3.75,2.5 -3.75,2.5"
+       d="m 50,38.75 c 0,0 3.75,0 3.75,2.5 0,2.5 -3.75,2.5 -3.75,2.5"
        id="path6558-5"
        sodipodi:nodetypes="csc" />
     <g
        id="g18223"
        transform="translate(-105,-12.5)" />
-    <use
-       xlink:href="#g18742"
-       id="use46146" />
     <use
        xlink:href="#g18774"
        id="use46192" />
@@ -275,6 +318,13 @@
        id="use46257" />
     <use
        xlink:href="#g46014-3"
-       id="use46331" />
+       id="use46331"
+       transform="translate(-7.5)" />
+    <use
+       xlink:href="#use46146"
+       id="use2558" />
+    <use
+       xlink:href="#use2650"
+       id="use1363" />
   </g>
 </svg>
